@@ -12,7 +12,7 @@ SNSやブログの情報は整理されていないため信頼性が低いで�
 ### ERD 
 <details>
   <summary>詳細を見る</summary> <br>
-  <img src="https://github.com/jongha8422-sketch/inoutmanager/blob/main/PICTURES/erd1.png" width="800"/> 
+  <img src="https://github.com/jongha8422-sketch/Delicious-Review/blob/main/%EC%BA%A1%EC%B3%90%EB%B3%B8%20%EB%AA%A8%EC%9D%8C/erd.png" width="800"/> 
 </details>
 
 
